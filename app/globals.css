@@ -131,7 +131,7 @@
   }
 }
 
-.tract-card {
+/* .tract-card {
   background-color: #ffffff;
   padding: 50px;
   border-radius: 12px;
@@ -190,4 +190,156 @@ ul {
 }
 li {
   margin-bottom: 10px;
+} */
+
+/* dark theme */
+/* .tract-card {
+  background-color: #1e293b;
+  color: #e2e8f0;
+  padding: 50px;
+  border-radius: 12px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.6);
+}
+
+header {
+  text-align: center;
+  margin-bottom: 40px;
+  border-bottom: 3px solid #3b82f6;
+  padding-bottom: 20px;
+}
+
+h1 {
+  font-size: 2.5em;
+  color: #60a5fa;
+  margin: 0;
+}
+
+h2 {
+  color: #f97316;
+  border-left: 6px solid #f97316;
+  padding-left: 15px;
+  margin-top: 40px;
+  font-size: 1.8em;
+}
+
+p {
+  margin-bottom: 20px;
+  text-align: justify;
+  color: #cbd5f5;
+}
+
+.scripture-box {
+  background: #0f172a;
+  border: 1px solid #334155;
+  border-right: 5px solid #f97316;
+  padding: 20px;
+  margin: 25px 0;
+  font-style: italic;
+  border-radius: 6px;
+  color: #e2e8f0;
+}
+
+.highlight {
+  color: #f87171;
+  font-weight: bold;
+}
+
+.divider {
+  height: 2px;
+  background: linear-gradient(to right, transparent, #475569, transparent);
+  margin: 40px 0;
+}
+
+footer {
+  margin-top: 50px;
+  padding-top: 30px;
+  border-top: 1px solid #334155;
+  text-align: center;
+  font-size: 0.95em;
+  color: #94a3b8;
+}
+
+ul {
+  padding-left: 20px;
+}
+
+li {
+  margin-bottom: 10px;
+  color: #cbd5f5;
+} */
+
+.tract-card {
+  background-color: #31363f;
+  color: #eeeeee;
+  padding: 5px;
+  border-radius: 12px;
+}
+
+header {
+  text-align: center;
+  margin-bottom: 40px;
+  border-bottom: 2px solid #76abae;
+  padding-bottom: 20px;
+}
+
+h1 {
+  font-size: 2.5em;
+  color: #76abae;
+  margin: 0;
+}
+
+h2 {
+  color: #76abae;
+  border-left: 5px solid #76abae;
+  margin-bottom: 8px;
+  padding-left: 15px;
+  margin-top: 40px;
+  font-size: 1.8em;
+}
+
+p {
+  margin-bottom: 20px;
+  text-align: justify;
+  color: #eeeeee;
+  line-height: 1.7;
+}
+
+.scripture-box {
+  background: #222831;
+  border: 1px solid #444a54;
+  border-right: 5px solid #76abae;
+  padding: 20px;
+  margin: 25px 0;
+  font-style: italic;
+  border-radius: 6px;
+  color: #eeeeee;
+}
+
+.highlight {
+  color: #76abae;
+  font-weight: bold;
+}
+
+.divider {
+  height: 2px;
+  background: linear-gradient(to right, transparent, #555, transparent);
+  margin: 40px 0;
+}
+
+footer {
+  margin-top: 20px;
+  padding-top: 30px;
+  border-top: 1px solid #444a54;
+  text-align: center;
+  font-size: 0.95em;
+  color: #cbd5d6;
+}
+
+ul {
+  padding-left: 20px;
+}
+
+li {
+  margin-bottom: 10px;
+  color: #eeeeee;
 }
